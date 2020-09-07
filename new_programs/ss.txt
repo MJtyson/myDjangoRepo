@@ -1,0 +1,7 @@
+https://www.cyberpratibha.com/blog/using-the-command-line-to-configure-network-interface-in-kali-linux/
+
+https://wiki.debian.org/NetworkManager
+
+https://www.pastfutur.com/fix-wifi-not-working-on-kali-linux-2020-1/
+
+https://kali.training/topic/configuring-the-network/
